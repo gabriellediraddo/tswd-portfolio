@@ -1,28 +1,18 @@
-# TSWD-portfolio-templates
-Portfolio templates for setting up your Telling Stories with Data site.  Edit these pages as you like for your own portfolio!  
-Sometimes it's helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Telling Stories With Data
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+https://gabriellediraddo.github.io/tswd-portfolio
+
 
 # Portfolio
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+Here's where all my cool work will go.
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Hello! I'm Gabrielle. I'm in the final semester of my Arts Management master's program. I am looking forward to moving to New York when I graduate and working in the arts. 
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+talk about what you're interested in getting out of the course and what you are planning to do once you graduate.  You can include other information you think is helpful to the rest of the class
 
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+As a future arts manager, I hope to move arts organizations away from "survival" and "scarcity" mindsets by embracing flexibility, change, and centering community through data-driven decision making. In this class, I want to learn how to communicate data effectively with a variety of stakeholders and decision makers. I am eager to use this opportunity to learn how to use Tableau and other, more cost-effective data visualization methods. I also want to be able to quickly understand data visualizations and identify key questions or gaps in information, so that when I am a manager and am presented with data visualizations, I can make informed decisions. 
 
 # Portfolio
 
