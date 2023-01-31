@@ -2,12 +2,13 @@
 
 # Visualizing Government Debt
 
-OECD General Government Debt
+[OECD General Government Debt](https://data.oecd.org/gga/general-government-debt.htm)
+"General government debt-to-GDP ratio measures the gross debt of the general government as a percentage of GDP. It is a key indicator for the sustainability of government finance. Debt is calculated as the sum of the following liability categories (as applicable): currency and deposits; debt securities, loans; insurance, pensions and standardised guarantee schemes, and other accounts payable. Changes in government debt over time primarily reflect the impact of past government deficits."
 <iframe src="https://data.oecd.org/chart/6Y2A" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</iframe> 
 
 Government Debt 1995-2021
 <div class="flourish-embed flourish-chart" data-src="visualisation/12594926"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Presenting the data with line bars in a series allows for easier comparison and makes trends across time more visible. I added a title and subtitle to clarify the purpose of the chart, but because a trend did not emerge across all countries represented, the subtitle reads quite vague. I made minor adjustments to spacing in order to create some more white space, as so many charts made it look noisy. To this end, I also decreased the number of charts per line from 5 to 4 in the default settings. If I had a better handle on this software, I would have included the OECD average line on each graph in a dark gray to serve as a benchmark.
+Using the same data set found at the source above, I created a line bar series. Presenting the data with line bars in a series allows for easier comparison and makes trends across time more visible. I added a title and subtitle to clarify the purpose of the chart, but because a trend did not emerge across all countries represented, the subtitle reads quite vague. I made minor adjustments to spacing in order to create some more white space, as so many charts made it look noisy. To this end, I also decreased the number of charts per line from 5 to 4 in the default settings. If I had a better handle on this software, I would have included the OECD average line on each graph in a dark gray to serve as a benchmark.
 
 Government Debt of European Countries, 2021
 <div class="flourish-embed flourish-map" data-src="visualisation/12597520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
