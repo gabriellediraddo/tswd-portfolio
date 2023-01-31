@@ -2,10 +2,15 @@
 
 # Visualizing Government Debt
 
-Beginning with OECD's General Government Debt tool
+OECD General Government Debt
 <iframe src="https://data.oecd.org/chart/6Y2A" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true">OECD Chart: General government debt, Total, % of GDP, Annual, 2021</iframe> 
 
-Government Debt
+Government Debt 1995-2021
 <div class="flourish-embed flourish-chart" data-src="visualisation/12594926"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
-Presenting the data with line bars in a series allows for easier comparison and makes trends across time more visible. I added a title and subtitle to clarify the purpose of the chart, but because a trend did not emerge across all countries represented, the subtitle reads quite vague. I made minor adjustments to spacing in order to create some more white space, as too many charts made it look noisy. To this end, I also decreased the number of charts per line from 5 to 4 in the default settings. 
+Presenting the data with line bars in a series allows for easier comparison and makes trends across time more visible. I added a title and subtitle to clarify the purpose of the chart, but because a trend did not emerge across all countries represented, the subtitle reads quite vague. I made minor adjustments to spacing in order to create some more white space, as so many charts made it look noisy. To this end, I also decreased the number of charts per line from 5 to 4 in the default settings. If I had a better handle on this software, I would have included the OECD average line on each graph in a dark gray to serve as a benchmark.
 
+Government Debt of European Countries, 2021
+<div class="flourish-embed flourish-map" data-src="visualisation/12597520"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+Examining European countries more closely, I was interested in which countries faced a large government deficet while grappling with the COVID-19 pandemic, so I chose to represent the data set as a map. Here we see that debt is most concentrated in Western and Central European countries during the pandemic. It took some time to adjust the data to fit Flourish's template. I used a red gradient to signify debt where the darker color signifies greater debt. Because the map is focused in the bottom right corner, I made sure that my title and legend were in the top left in order address this preattentive attribute. I had a difficult time including every country on the map, not just the countries for which I had data for, although including these country names may be superfluous for the purposes of this map. 
+
+The line chart above captures government debt across time, which I think is the most successful at showing trends. However, it's difficult to compare the debt-to-GDP numbers with many small charts and does create a lot of eye travel. The bar graph has the easiest comparison between countries, but only captures one year of data. The map shows very clear visual weight with color gradients and has a very fast takeaway, but without trends across time or additional context, the story this visualization is telling is very shallow. 
