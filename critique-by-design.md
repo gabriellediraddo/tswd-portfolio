@@ -2,9 +2,9 @@
 
 # Critique By Design
 
-Six hours of scrolling through smart, informative, clear data visualizations later, I cam across the following graphic [in an article](https://www.dw.com/en/climate-change-emissions-data-charts-cop26/a-59652069) about climate change and what questions and answers world leaders might want to know when discussing its global impact. This graphic was nestled under the question: "What are the major sources of greenhouse gas emmissions?" and considers which countries have been the world's biggest drivers of deforestation. 
+Six hours of scrolling through smart, informative, clear data visualizations later, I came across the following graphic [in an article](https://www.dw.com/en/climate-change-emissions-data-charts-cop26/a-59652069) about climate change and what questions and answers world leaders might want to know when discussing its global impact. This graphic was nestled under the question: "What are the major sources of greenhouse gas emmissions?" and considers which countries have been the world's biggest drivers of deforestation. 
 
-![Deforestation by year chart](image.jpg)
+![Deforestation by year chart](deforestation-chart-original.png)
 
 ## The Critique
 
