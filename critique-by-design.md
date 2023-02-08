@@ -61,29 +61,45 @@ After asking peers questions about my redesign, I received the following feedbac
 
 ###User Feedback
 
-To learn more about how viewers experience and understand my redesign without the context of the original data visualization, I conducted user feedback sessions asking the following questions. The I gathered user feedback from
+To learn more about how viewers experience and understand my redesign without the context of the original data visualization, I conducted user feedback sessions. Below are excerpts from my interviews with key quotes. 
+
+Users
 
 1. Female, student, 30's
 2.  Female, retired, 60's
 
 **Can you tell me what you think this is?** 
-It tells me how much tree cover loss is concentrated within the five countries identified in the label, and the conglomerate of all other countries. 
-This is how many trees were cut down in these countries from 2001 to 2021 in hectares. Other is a bunch of countries. 
 
-**Can you describe to me what this is telling you?** That we’re losing a lot of trees, and that this is the amount of trees that are being cut down, but maybe it includes trees lost due to natural disasters, I’m not sure, and it's increasing as time goes on. And if you think about it, it's scarier because with every tree we lose, the next tree we lose is even more precious because we have fewer of them. This makes me feel panicked because climate change makes me feel panicked. 
-The first thing that occurs to me is that Russia lost a whole bunch of trees in 2015, and then I look at it and I’m not sure what I’m looking at. I don’t like this kind of graph. Russia is the worst, and everything else has gone out. We should be very panicked about how many trees we have lost. 
+1. "It tells me how much tree cover loss is concentrated within the five countries identified" 
+2. "This is how many trees were cut down in these countries from 2001 to 2021"
+
+**Can you describe to me what this is telling you?** 
+
+1. "That we’re losing a lot of trees, and that this is the amount of trees that are being cut down, **but maybe it includes trees lost due to natural disasters, I’m not sure**", and it's increasing as time goes on. And if you think about it, it's scarier because with every tree we lose, the next tree we lose is even more precious because we have fewer of them. **This makes me feel panicked** because climate change makes me feel panicked." 
+2. "The first thing that occurs to me is that Russia lost a whole bunch of trees in 2015, and then I look at it and **I’m not sure what I’m looking at. I don’t like this kind of graph.** Russia is the worst, and everything else has gone out. **We should be very panicked** about how many trees we have lost." 
 
 **Is there anything you find surprising or confusing?**
-I’m trying to imagine Indonesia and how big it is. It’s so small. The other countries have a large land mass, so it’s surprising that it's on the list because it's not as big as the other countries, so maybe its more forested. I don’t know how much a hectare is but I bet its a ton. The “other” is complicated, like is it literally every other country in the world? Is the area of the line inclusive? It’s hard to see what the total is. Is Russia losing 25 million hectares or just 10?
-I don’t know how big a hectare is - is M miles? I don’t know that. I’m confused by Russia. I’m really surprised because when I read stuff, it says that the US and Canada have had horrific fires and we’ve lost acres and acres of forest from global warming. We know that Brazil is burning trees as fast as possible. But I’m surprised about Russia and I don’t know why they’re losing trees, but to what? It’s intriguing, but I dont know why they are - is it deforestation, is it climate, is it disease?
+
+1. "I’m trying to imagine Indonesia and how big it is. It’s so small. The other countries have a large land mass, so **it’s surprising that it's on the list** because it's not as big as the other countries, so maybe its more forested. **I don’t know how much a hectare is** but I bet its a ton. The “other” is complicated, like is it literally every other country in the world? **Is the area of the line inclusive? It’s hard to see what the total is.** Is Russia losing 25 million hectares or just 10?"
+2. "**I don’t know how big a hectare is - is M miles? **I don’t know that. I’m confused by Russia. I’m really surprised because when I read stuff, it says that the US and Canada have had horrific fires and we’ve lost acres and acres of forest from global warming. We know that Brazil is burning trees as fast as possible. But I’m surprised about Russia and **I don’t know why they’re losing trees, but to what?** It’s intriguing, but I dont know why they are - **is it deforestation, is it climate, is it disease?"**
 
 **Is there anything you feel like is missing or you would like to see?**
-It might be interesting to see some numbers, like is 50% of the tree loss made up by other countries? Having the land mass might be interesting. Including the percentages for each of the years for each country, too. 
-I dont like that the colors are so close together, it makes it hard to distinguish one from the next. Otherwise, no. 
+
+1. "It might be interesting to see some numbers, like is 50% of the tree loss made up by other countries? Having the land mass might be interesting. **Including the percentages for each of the years for each country, too.**"
+2. "**I dont like that the colors are so close together, it makes it hard to distinguish one from the next**. Otherwise, no."
 
 ## Final Redesign
 
 Using the original data source from [Global Forest Watch's Dashboard] (https://www.globalforestwatch.org/), I used Tableau to create another redesign with these perspectives in mind. 
 
-! [Deforestation Chart Redesign V2]
+![Deforestation Chart Redesign V2](DeforestationV2.png)
 
+Every user I spoke with was confused in some way by the stacked area line chart, and most wanted to be able to see more precision in the data. I returned to the original chart type, but made it so every year was a stacked bar and not just 2020. I decided to eliminate Indonesia as one of the countries to highlight as it didn’t seem to add usefulness to the chart, and when I looked further into the data, the country’s tree cover loss was only marginally greater than the 6th country. Indonesia became part of “other” which makes the four remaining countries more prominent. This also helped declutter the chart. 
+
+There was confusion from the users about what “tree coverage loss” meant, and several users brought up that they weren’t sure what this meant. In conversation, I also learned that users believed deforestation and tree loss due to wildfire were distinct variables, even though the phrase “deforestation” as defined by the organization who collected the data is inclusive of wildfires. To mitigate confusion around these terms, I tried to title the chart in clear terms - these are the countries where we are losing the most trees. Additionally, I intentionally chose the phrase “our planet” to make the chart relevant to the audience. 
+
+There was some debate when talking to my class peers about the use of green, some believing that this connoted a positive chart. Other users I spoke with felt like the green created a personal connection and added to the “panic” that the chart made them feel. Ultimately, I decided that the positive connotation was related to the large light green area attributed to the “other” variable. In this redesign, I made “other” a dark grey and chose an overal darker green palette for the other countries. This also helps to draw attention to how much tree loss is occuring in just four countries around the world.
+
+To further address the precision in data that users wanted, I added a popover to every chart segment so that users could see how many hectares each of the top four countries lost every year. 
+
+What else would I change if I had a better understanding of how Tableau works? I would have altered the x-axis to show tick marks only every 5 years. I think that this keeps the chart decluttered. I also would have placed the legend in the chart in the top right corner in order to limit how much the eye needs to travel. Finally, I think that the numbers in the popups could be rounded to the ten thousands or hundred thousands place. That level of granularity I don’t think is necessary, and this would further declutter the chart. 
