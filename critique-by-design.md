@@ -17,40 +17,40 @@ I critiqued the visualization using Stephen Few's Data Visualization Effectivene
 ### Completeness.  Does the visualization have everything necessary to make it understandable?
 8 - Necessary information is present, but I would argue that it would feel more complete if the country breakdown was applied to each year. I think that the y axis would feel more complete if each number tick was presented with a unit in millions.
 
-###Perceptibility.  Can the reader understand the information with minimal effort? Is the visualization type appropriate?  Does it use illogical comparisons?
+### Perceptibility.  Can the reader understand the information with minimal effort? Is the visualization type appropriate?  Does it use illogical comparisons?
 7 - The graphic doesn’t have a lot of complexity and it’s easy to understand once you realize that it’s flipped. The blue does not make it easy to understand that each country is different. The bar graph makes sense in this situation.
 
-###Truthfulness.  Is the visualization accurate, reliable and valid?  Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?
+### Truthfulness.  Is the visualization accurate, reliable and valid?  Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?
 7 - I am taking points off for the final bar being much wider and appearing as if this slowdown period has been going on for longer than it actually has been. Because “others” accounts for the majority of deforestation, it draws my attention there and makes me wonder what countries are included, which sows doubt about the trustworthiness of the chart’s creator. 
 
-###Intuitiveness.  Is it easy to understand and clearly communicates the information?  If unfamiliar, does it include easy to understand instructions on how to interpret it?
+### Intuitiveness.  Is it easy to understand and clearly communicates the information?  If unfamiliar, does it include easy to understand instructions on how to interpret it?
 7 - It takes me a moment to understand that the numbers relate to forest loss which is why the chart appears upside down. It’s not intuitive to understand the countries as distinct variables in 2020 because they are all the same color. I think I intuit the bars to be the other way because loss is implied with the word deforestation. 
 
-###Aesthetics.  It is interesting / enjoyable to look at?  Is it a good example of what a beautiful data visualization might look like?  Is it somewhere in the middle - pleasing but otherwise not distracting to look at?
+### Aesthetics.  It is interesting / enjoyable to look at?  Is it a good example of what a beautiful data visualization might look like?  Is it somewhere in the middle - pleasing but otherwise not distracting to look at?
 7 - It’s very minimal and not at all overwhelming - in fact, to its detriment. There is a lack of white space between bars. Without color variations where there probably should be, the chart looks too homogenous. 
 
-###Engagement.  Does it lead the audience to learn more about the topic?  Does it inspire the audience to talk about the data or share it with others?
+### Engagement.  Does it lead the audience to learn more about the topic?  Does it inspire the audience to talk about the data or share it with others?
 
 3 - The chart does not instill an emotional connection - it’s difficult to comprehend how big 30 million hectares is. The takeaway presented seems miniscule. Deforestation has slowed down, but that still seems like a lot per year! 
 
-###Summary 
+### Summary 
 Overall, I think the minimalism makes the chart approachable and easy. The upside down orientation is not very intuitive. The chart feels like a flat blue wall where little is emphasized - the bars need some white space breathing room and each country should be represented with its own color. I think that breaking down the information by country is useful and should be extended to each year. It was strange to isolate it to 2020 alone. I think that communicating how big a land area 30 million hectares is would be more engaging, and maybe this necessitates playing with scale. I would change the color scheme to green to trigger the biological connection to nature and create a gradient for the countries to distinguish the variables.
 
 
 As stated in the article, the primary audience for the tool was world leaders - or at least, climate change decision makers who want to understand what contributes to climate change before making a decision on what to do about it. I think that the chart relies on the assumption that the audience relates increased deforestation to climate change, which I think is a safe assumption to make. The chart somewhat imparts the negative impact of deforestation with the upside down orientation. I think that the simplicity would appeal to this audience who may not have a lot of time to spend on a chart and must understand the information presented quickly. 
 
-##Sketching a Solution
+## Sketching a Solution
 
-![Deforestation by year chart redesign v1] (DeforestationChartRedesignV1.jpeg)
+![Deforestation by year chart redesign v1](DeforestationChartRedesignV1.jpeg)
 I chose to make my first redesign by hand. I changed the y-axis orientation to represent tree loss with a positive value, which is more intuitive to me. I also added the Millions unit to each number to help emphasize how big a land mass this graph represents. I liked that not every year was written on the x axis, so I maintained this minimal axis design on my chart. 
 
 For this version, I wanted to experiment with a stacked area chart because I wanted to show trends over time and I thought it would help psychologically associate the data with real land mass and make it feel relevant and personal. I chose a green color palette and gave each country a different gradient, which was challenging with a limited colored pencil collection. I also extended the country breakdown to be present for every year. 
 
 I changed the title to include the phrase “tree coverage loss” to move away from assumptions the audience may have about what qualifies as “deforestation”. Trying to write a title drew my attention to the usefulness of the graph, or lack thereof. I am unsure if the solutions I chose to address with this draft address an underlying issue from the critique - what is this graph really trying to say, and is this useful to its audience? 
 
-##User Feedback
+## User Feedback
 
-###In-class Peer Critique
+### In-class Peer Critique
 
 After asking peers questions about my redesign, I received the following feedback:
 
@@ -59,7 +59,7 @@ After asking peers questions about my redesign, I received the following feedbac
 * Maybe there’s too much data for there to be a simple takeaway. Variables might need to be isolated, maybe pre- and post-pandemic or something else time related.
 * It is difficult to see any measurements, and there was a desire to use a grid or some other system that made it easier to see more precise numbers
 
-###User Feedback
+### User Feedback
 
 To learn more about how viewers experience and understand my redesign without the context of the original data visualization, I conducted user feedback sessions. Below are excerpts from my interviews with key quotes. 
 
