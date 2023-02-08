@@ -81,7 +81,7 @@ Users
 **Is there anything you find surprising or confusing?**
 
 1. "I’m trying to imagine Indonesia and how big it is. It’s so small. The other countries have a large land mass, so **it’s surprising that it's on the list** because it's not as big as the other countries, so maybe its more forested. **I don’t know how much a hectare is** but I bet its a ton. The “other” is complicated, like is it literally every other country in the world? **Is the area of the line inclusive? It’s hard to see what the total is.** Is Russia losing 25 million hectares or just 10?"
-2. "**I don’t know how big a hectare is - is M miles? **I don’t know that. I’m confused by Russia. I’m really surprised because when I read stuff, it says that the US and Canada have had horrific fires and we’ve lost acres and acres of forest from global warming. We know that Brazil is burning trees as fast as possible. But I’m surprised about Russia and **I don’t know why they’re losing trees, but to what?** It’s intriguing, but I dont know why they are - **is it deforestation, is it climate, is it disease?"**
+2. "**I don’t know how big a hectare is - is M miles?**     I don’t know that. I’m confused by Russia. I’m really surprised because when I read stuff, it says that the US and Canada have had horrific fires and we’ve lost acres and acres of forest from global warming. We know that Brazil is burning trees as fast as possible. But I’m surprised about Russia and **I don’t know why they’re losing trees, but to what?** It’s intriguing, but I dont know why they are - **is it deforestation, is it climate, is it disease?"**
 
 **Is there anything you feel like is missing or you would like to see?**
 
