@@ -20,7 +20,7 @@ I critiqued the visualization using Stephen Few's Data Visualization Effectivene
 ### Perceptibility.  Can the reader understand the information with minimal effort? Is the visualization type appropriate?  Does it use illogical comparisons?
 7 - The graphic doesn’t have a lot of complexity and it’s easy to understand once you realize that it’s flipped. The blue does not make it easy to understand that each country is different. The bar graph makes sense in this situation.
 
-### Truthfulness.  Is the visualization accurate, reliable and valid?  Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?
+###Truthfulness.  Is the visualization accurate, reliable and valid?  Is it representing what it says it is, and in the most complete and truthful manner? Does it misrepresent the data or make comparisions that aren't correct?
 7 - I am taking points off for the final bar being much wider and appearing as if this slowdown period has been going on for longer than it actually has been. Because “others” accounts for the majority of deforestation, it draws my attention there and makes me wonder what countries are included, which sows doubt about the trustworthiness of the chart’s creator. 
 
 ### Intuitiveness.  Is it easy to understand and clearly communicates the information?  If unfamiliar, does it include easy to understand instructions on how to interpret it?
