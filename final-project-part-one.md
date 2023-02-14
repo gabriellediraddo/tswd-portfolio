@@ -24,14 +24,18 @@ Young adult: use my social media networks to engage in socialization and not jus
 ### Major Sections and Initial Sketches
 
 Young Adults facing anxiety and depression
+![Depressive Episode Chart 1](./depressive-episode-2.jpeg)
+![Depressive Episode Chart 2](./depressive-episode.jpeg)
 
 Lasting Impact of COVID-19
+![COVID impact](covid.jpeg)
 
 Increased isolation/how socialization can help
-
+![Outside Support](support.jpeg)
+![Serious Loneliness among Young Adults](serious-loneliness.jpeg)
 
 Calls to action
-
+Links to resources will go here
 
 ## Data Sources
 [When loneliness dimensions drift apart: Emotional, social and physical loneliness during the COVID-19 lockdown and its associations with age, personality, stress and well-being](https://onlinelibrary-wiley-com.cmu.idm.oclc.org/doi/full/10.1002/ijop.12772) This reseach represents isolation as three dimensions and provides data on how different stressors from the pandemic lockdown impacted isolation. I will use this data in part to help define isolation as physical, social, and emotional isolation, which will help to guide how different calls to action may impact different dimensions of isolation. This data will also visualize how different traits or environments impact isolation, including age, living arragement, and extraversion. 
