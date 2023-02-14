@@ -25,7 +25,7 @@ You can keep this section for stuff from in-class demos or your other work, or r
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
 ## Final project
-Here it might be helpful to include a high-level description of your final project. 
+I'm still working on the final project, but you can grade each part as it releases with these links: 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
