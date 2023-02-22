@@ -4,9 +4,9 @@
 
 ### Foreward
 This week, I started fresh with a new idea that I am more interested exploring. Here are some initial sketches I made while researching. 
-![Sketch 1](sketches1.jpeg)
-![Sketch 2](sketches2.jpeg)
-![Sketch 3](sketches3.jpeg)
+![Sketch 1](Sketches1.jpeg)
+![Sketch 2](Sketches2.jpeg)
+![Sketch 3](Sketches3.jpeg)
 ![Sketch 4 and Story Arc](Sketches4.jpeg)
 
 ## Wireframe
