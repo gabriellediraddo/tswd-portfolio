@@ -10,8 +10,7 @@ This week, I started fresh with a new idea that I am more interested exploring. 
 ![Sketch 4 and Story Arc](Sketches4.jpeg)
 
 ## Wireframe
-After sketching, I went straight to wireframing on Shorthand and created high fidelity data visualizations on figma. 
-https://preview.shorthand.com/dbJ3KA8o2W7xVi9M 
+After sketching, I went straight to wireframing on Shorthand and created high fidelity data visualizations on figma. You can look at my work in progress [here](https://carnegiemellon.shorthandstories.com/ai-art/index.html).
 
 ## User Research
 
