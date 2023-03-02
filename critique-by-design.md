@@ -11,7 +11,7 @@ Six hours of scrolling through smart, informative, clear data visualizations lat
 I critiqued the visualization using Stephen Few's Data Visualization Effectiveness Profile, ranking the following on a scale of 1-10
 
 
-### Usefulness. Is it useful for the intended audience?  Does it communicate valuable information?
+###Usefulness. Is it useful for the intended audience?  Does it communicate valuable information?
 6 - This chart identifies which countries committed the most deforestation in 2020, but not historically. I think there could be added value if the country breakdown applied to every year it was clearer to understand the trends of each country. The graph also doesn’t say a lot about how the deforestation is occurring - is it due to wildfires? Agriculture?
 
 ### Completeness.  Does the visualization have everything necessary to make it understandable?
